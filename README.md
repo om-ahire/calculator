@@ -42,7 +42,7 @@ calculator-app/
 
 ## 🌐 Live Demo
 
-👉 **[Click here to use the Calculator](#)**  
+👉 **https://om-ahire.github.io/calculator/**  
 _(Link will be updated after deployment)_
 
 ---
